@@ -23,5 +23,5 @@ python3 src/gan.py
 ```
 
 ## Result
-
+![gif](https://media.giphy.com/media/5bDzPCd22UzqDzSkD1/giphy.gif)
 
